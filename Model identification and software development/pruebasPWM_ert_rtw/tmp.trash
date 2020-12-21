@@ -1,0 +1,4 @@
+avrdude: ser_open(): can't open device "//./COM4": Acceso denegado.
+
+avrdude: ser_drain(): read error: Controlador no válido.
+

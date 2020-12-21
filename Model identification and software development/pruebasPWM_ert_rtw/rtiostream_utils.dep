@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ C:/PROGRA~1/MATLAB/R2016a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ C:/PROGRA~1/MATLAB/R2016a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/Users/i95sa/DOCUME~1/UNIVER~1/SEMEST~1/TCNICA~1/proyecto/CARACT~1/pruebasPWM_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/rtiostream.h
+
+C:/PROGRA~1/MATLAB/R2016a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/Users/i95sa/DOCUME~1/UNIVER~1/SEMEST~1/TCNICA~1/proyecto/CARACT~1/pruebasPWM_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2016a/rtw/c/src/rtiostream.h:
